@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "TipsyOs/device_lge_g3-common",
+    "repository":  "TipsyOs-Devices/device_lge_d855",
     "target_path": "device/lge/g3-common",
     "branch":      "lp5.1" 
   },
